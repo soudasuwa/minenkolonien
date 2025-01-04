@@ -1,0 +1,7 @@
+# Minenkolonien
+**v0.0.4**
+
+- Fix `options.txt` overrides
+- Fix `servers.dat` overrides
+- Remove `Custom Background HD` resourcepack
+- Add custom `Custom Background HD Minenkolonien` resourcepack

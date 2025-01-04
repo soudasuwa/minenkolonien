@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"hotfixesFormat": null,
+	"versions": [
+		{
+			"id": "v0.0.3",
+			"releasedAt": 1736009981561,
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/minenkolonien"
+				}
+			}
+		},
+		{
+			"id": "v0.0.4",
+			"releasedAt": 1736009981562,
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/minenkolonien"
+				}
+			},
+			"updateType": "minor"
+		},
+		{
+			"id": "v0.0.5",
+			"releasedAt": 1736009981563,
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/minenkolonien"
+				}
+			},
+			"updateType": "minor"
+		}
+	]
+}
