@@ -1,0 +1,4 @@
+# Minenkolonien
+**v0.0.6**
+
+- Fix `Modpack Update Checker` mod configuration

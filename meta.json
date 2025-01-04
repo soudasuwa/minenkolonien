@@ -30,6 +30,16 @@
 				}
 			},
 			"updateType": "minor"
+		},
+		{
+			"id": "v0.0.6",
+			"releasedAt": 1736013751905,
+			"promotions": {
+				"downloads": {
+					"curseforge": "https://www.curseforge.com/minecraft/modpacks/minenkolonien"
+				}
+			},
+			"updateType": "minor"
 		}
 	]
 }
