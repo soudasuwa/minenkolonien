@@ -1,15 +1,15 @@
 {
-  "schemaVersion": 9,
-  "currentVersion": "v0.0.6",
-  "modpackName": "Minenkolonien",
-  "modpackAuthor": "soudasuwa",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/soudasuwa/minenkolonien/main/",
-  "advanced": {
-    "bccEnabled": false,
-    "expandButton": false,
-    "updateCheckerType": 2,
-    "retroWarning": false,
-    "modpackMods": []
+	"schemaVersion": 9,
+	"currentVersion": "v0.0.6",
+	"modpackName": "Minenkolonien",
+	"modpackAuthor": "soudasuwa",
+	"modpackReleaseType": "stable",
+	"updateCheckerId": "https://raw.githubusercontent.com/soudasuwa/minenkolonien/main/",
+	"advanced": {
+	  "bccEnabled": false,
+	  "expandButton": false,
+	  "updateCheckerType": 2,
+	  "retroWarning": false,
+	  "modpackMods": []
+	}
   }
-}
