@@ -1,0 +1,10 @@
+# Minenkolonien
+**v0.0.9**
+
+- Update Modpack version check config
+- Include `options.txt` and `servers.dat` settings
+
+## Changelog from version **0.0.6**
+- Add `Ping Wheel` mod
+- Add `Fast IP Ping` mod
+- Add `Mouse Tweaks` mod

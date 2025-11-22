@@ -1,5 +1,5 @@
 # Minenkolonien
-**v0.0.7**
+**v0.0.8**
 
 - Add `Ping Wheel` mod
 - Add `Fast IP Ping` mod
